@@ -1,0 +1,14 @@
+C:\Users\fenton\source\repos\체결공부\chart\bin\Release\chart.exe.config
+C:\Users\fenton\source\repos\체결공부\chart\bin\Release\chart.exe
+C:\Users\fenton\source\repos\체결공부\chart\bin\Release\chart.pdb
+C:\Users\fenton\source\repos\체결공부\chart\bin\Release\Interop.KHOpenAPILib.dll
+C:\Users\fenton\source\repos\체결공부\chart\bin\Release\AxInterop.KHOpenAPILib.dll
+C:\Users\fenton\source\repos\체결공부\chart\obj\Release\Interop.KHOpenAPILib.dll
+C:\Users\fenton\source\repos\체결공부\chart\obj\Release\AxInterop.KHOpenAPILib.dll
+C:\Users\fenton\source\repos\체결공부\chart\obj\Release\chart.csproj.ResolveComReference.cache
+C:\Users\fenton\source\repos\체결공부\chart\obj\Release\chart.Form1.resources
+C:\Users\fenton\source\repos\체결공부\chart\obj\Release\chart.Properties.Resources.resources
+C:\Users\fenton\source\repos\체결공부\chart\obj\Release\chart.csproj.GenerateResource.cache
+C:\Users\fenton\source\repos\체결공부\chart\obj\Release\chart.csproj.CoreCompileInputs.cache
+C:\Users\fenton\source\repos\체결공부\chart\obj\Release\chart.exe
+C:\Users\fenton\source\repos\체결공부\chart\obj\Release\chart.pdb

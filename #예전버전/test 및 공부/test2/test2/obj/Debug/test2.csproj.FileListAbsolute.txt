@@ -1,0 +1,10 @@
+C:\Users\fenton\source\repos\test2\test2\bin\Debug\test2.exe.config
+C:\Users\fenton\source\repos\test2\test2\bin\Debug\test2.exe
+C:\Users\fenton\source\repos\test2\test2\bin\Debug\test2.pdb
+C:\Users\fenton\source\repos\test2\test2\obj\Debug\test2.csprojAssemblyReference.cache
+C:\Users\fenton\source\repos\test2\test2\obj\Debug\test2.Form1.resources
+C:\Users\fenton\source\repos\test2\test2\obj\Debug\test2.Properties.Resources.resources
+C:\Users\fenton\source\repos\test2\test2\obj\Debug\test2.csproj.GenerateResource.cache
+C:\Users\fenton\source\repos\test2\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+C:\Users\fenton\source\repos\test2\test2\obj\Debug\test2.exe
+C:\Users\fenton\source\repos\test2\test2\obj\Debug\test2.pdb

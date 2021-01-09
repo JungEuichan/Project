@@ -1,0 +1,15 @@
+C:\Users\fenton\source\repos\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\fenton\source\repos\Test\Test\obj\Debug\Interop.KHOpenAPILib.dll
+C:\Users\fenton\source\repos\Test\Test\obj\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\fenton\source\repos\Test\Test\obj\Debug\Test.csproj.ResolveComReference.cache
+C:\Users\fenton\source\repos\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\fenton\source\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\fenton\source\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\fenton\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\fenton\source\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\fenton\source\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\fenton\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\fenton\source\repos\Test\Test\bin\Debug\Interop.KHOpenAPILib.dll
+C:\Users\fenton\source\repos\Test\Test\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\fenton\source\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\fenton\source\repos\Test\Test\obj\Debug\Test.pdb

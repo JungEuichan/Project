@@ -1,0 +1,44 @@
+C:\Users\fenton\source\repos\chart\chart\obj\Debug\chart.csprojAssemblyReference.cache
+C:\Users\fenton\source\repos\chart\chart\obj\Debug\Interop.KHOpenAPILib.dll
+C:\Users\fenton\source\repos\chart\chart\obj\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\fenton\source\repos\chart\chart\obj\Debug\chart.csproj.ResolveComReference.cache
+C:\Users\fenton\source\repos\chart\chart\obj\Debug\chart.Form1.resources
+C:\Users\fenton\source\repos\chart\chart\obj\Debug\chart.Properties.Resources.resources
+C:\Users\fenton\source\repos\chart\chart\obj\Debug\chart.csproj.GenerateResource.cache
+C:\Users\fenton\source\repos\chart\chart\obj\Debug\chart.csproj.CoreCompileInputs.cache
+C:\Users\fenton\source\repos\chart\chart\bin\Debug\chart.exe.config
+C:\Users\fenton\source\repos\chart\chart\bin\Debug\chart.exe
+C:\Users\fenton\source\repos\chart\chart\bin\Debug\chart.pdb
+C:\Users\fenton\source\repos\chart\chart\bin\Debug\Interop.KHOpenAPILib.dll
+C:\Users\fenton\source\repos\chart\chart\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\fenton\source\repos\chart\chart\obj\Debug\chart.exe
+C:\Users\fenton\source\repos\chart\chart\obj\Debug\chart.pdb
+C:\Users\fenton\source\repos\chart\chart\obj\Debug\chart.Form2.resources
+C:\Users\fenton\source\repos\스톡어드바이저\chart\bin\Debug\chart.exe.config
+C:\Users\fenton\source\repos\스톡어드바이저\chart\bin\Debug\chart.exe
+C:\Users\fenton\source\repos\스톡어드바이저\chart\bin\Debug\chart.pdb
+C:\Users\fenton\source\repos\스톡어드바이저\chart\bin\Debug\Interop.KHOpenAPILib.dll
+C:\Users\fenton\source\repos\스톡어드바이저\chart\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\fenton\source\repos\스톡어드바이저\chart\obj\Debug\chart.csprojAssemblyReference.cache
+C:\Users\fenton\source\repos\스톡어드바이저\chart\obj\Debug\Interop.KHOpenAPILib.dll
+C:\Users\fenton\source\repos\스톡어드바이저\chart\obj\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\fenton\source\repos\스톡어드바이저\chart\obj\Debug\chart.csproj.ResolveComReference.cache
+C:\Users\fenton\source\repos\스톡어드바이저\chart\obj\Debug\chart.Form1.resources
+C:\Users\fenton\source\repos\스톡어드바이저\chart\obj\Debug\chart.Properties.Resources.resources
+C:\Users\fenton\source\repos\스톡어드바이저\chart\obj\Debug\chart.csproj.GenerateResource.cache
+C:\Users\fenton\source\repos\스톡어드바이저\chart\obj\Debug\chart.csproj.CoreCompileInputs.cache
+C:\Users\fenton\source\repos\스톡어드바이저\chart\obj\Debug\chart.exe
+C:\Users\fenton\source\repos\스톡어드바이저\chart\obj\Debug\chart.pdb
+C:\Users\fenton\Desktop\chart.exe.config
+C:\Users\fenton\Desktop\chart.exe
+C:\Users\fenton\Desktop\chart.pdb
+C:\Users\fenton\source\repos\스톡어드바이저 _ ver 최근\chart\obj\Debug\chart.csprojAssemblyReference.cache
+C:\Users\fenton\source\repos\스톡어드바이저 _ ver 최근\chart\obj\Debug\Interop.KHOpenAPILib.dll
+C:\Users\fenton\source\repos\스톡어드바이저 _ ver 최근\chart\obj\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\fenton\source\repos\스톡어드바이저 _ ver 최근\chart\obj\Debug\chart.csproj.ResolveComReference.cache
+C:\Users\fenton\source\repos\스톡어드바이저 _ ver 최근\chart\obj\Debug\chart.Form1.resources
+C:\Users\fenton\source\repos\스톡어드바이저 _ ver 최근\chart\obj\Debug\chart.Properties.Resources.resources
+C:\Users\fenton\source\repos\스톡어드바이저 _ ver 최근\chart\obj\Debug\chart.csproj.GenerateResource.cache
+C:\Users\fenton\source\repos\스톡어드바이저 _ ver 최근\chart\obj\Debug\chart.csproj.CoreCompileInputs.cache
+C:\Users\fenton\source\repos\스톡어드바이저 _ ver 최근\chart\obj\Debug\chart.exe
+C:\Users\fenton\source\repos\스톡어드바이저 _ ver 최근\chart\obj\Debug\chart.pdb

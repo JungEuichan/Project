@@ -1,0 +1,12 @@
+C:\Users\fenton\source\repos\formtest\formtest\bin\Debug\formtest.exe.config
+C:\Users\fenton\source\repos\formtest\formtest\bin\Debug\formtest.exe
+C:\Users\fenton\source\repos\formtest\formtest\bin\Debug\formtest.pdb
+C:\Users\fenton\source\repos\formtest\formtest\obj\Debug\formtest.Form1.resources
+C:\Users\fenton\source\repos\formtest\formtest\obj\Debug\formtest.Form2.resources
+C:\Users\fenton\source\repos\formtest\formtest\obj\Debug\formtest.Properties.Resources.resources
+C:\Users\fenton\source\repos\formtest\formtest\obj\Debug\formtest.csproj.GenerateResource.cache
+C:\Users\fenton\source\repos\formtest\formtest\obj\Debug\formtest.csproj.CoreCompileInputs.cache
+C:\Users\fenton\source\repos\formtest\formtest\obj\Debug\formtest.exe
+C:\Users\fenton\source\repos\formtest\formtest\obj\Debug\formtest.pdb
+C:\Users\fenton\source\repos\formtest\formtest\obj\Debug\formtest.UserControl1.resources
+C:\Users\fenton\source\repos\formtest\formtest\obj\Debug\formtest.csprojAssemblyReference.cache
